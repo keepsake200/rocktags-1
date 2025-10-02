@@ -42,7 +42,7 @@
 - **{{MEMBER_2}}:** {{role}} (e.g., Frontend Lead, Backend Lead, UI/UX, DevOps)
 - **{{MEMBER_3}}:** {{role}}
 - **{{MEMBER_4}}:** {{role}}
-- **{{MEMBER_5}}:** {{role}}
+- **{{Ariel Zambeck}}:** {{Backend developer}}
 
 ## Risk Assessment
 **Technical Risks:** What could go wrong technically?
